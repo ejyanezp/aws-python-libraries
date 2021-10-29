@@ -1,2 +1,2 @@
 # aws-libraries
-Bibliotecas de programas
+Bibliotecas de programas para la capa de servicios
