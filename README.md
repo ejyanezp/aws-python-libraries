@@ -1,3 +1,3 @@
 # aws-libraries
-Bibliotecas de programas en python
+Bibliotecas de programas para la capa de servicios
 
